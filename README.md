@@ -1,7 +1,6 @@
-# OS-X-Tools-Scripts
-
-
 # RewriteBar
+
+# OS-X-Tools-Scripts
 
 **简介**  
 RewriteBar 是一个轻量级的语法纠错工具，旨在快速纠正选中文本中的语法错误，为您的文字输入提供简单实用的替代方案。
