@@ -1,2 +1,26 @@
 # OS-X-Tools-Scripts
-Store some efficiency scripts for everyday use
+
+---
+
+# RewriteBar
+
+**简介**  
+RewriteBar 是一个轻量级的语法纠错工具，旨在快速纠正选中文本中的语法错误，为您的文字输入提供简单实用的替代方案。
+
+**运行环境**  
+本工具仅支持 OS X 系统。
+
+**快速入门**  
+在终端中运行以下命令启动程序：
+
+```bash
+sudo python grammarCheck.py --hotkey
+```
+
+**使用说明**  
+1. 使用鼠标选中需要纠错的文本。  
+2. 按下快捷键 `Command+U` 触发语法检查。  
+3. 程序将对选中文本进行语法纠正，并以流式输出的方式将结果发送到鼠标当前位置。
+
+---
+
