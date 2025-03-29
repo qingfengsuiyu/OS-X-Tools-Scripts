@@ -1,6 +1,5 @@
 # OS-X-Tools-Scripts
 
----
 
 # RewriteBar
 
@@ -21,6 +20,4 @@ sudo python grammarCheck.py --hotkey
 1. 使用鼠标选中需要纠错的文本。  
 2. 按下快捷键 `Command+U` 触发语法检查。  
 3. 程序将对选中文本进行语法纠正，并以流式输出的方式将结果发送到鼠标当前位置。
-
----
 
